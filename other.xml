@@ -1,0 +1,24 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="KEYMAP" value="Line&#10;find in path&#10;delete&#10;gutter&#10;build" />
+    <property name="LayoutCode.codeCleanup" value="true" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="LayoutCode.rearrangeEntriesC#" value="false" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="RD.Init.Cfg.2" value="true" />
+    <property name="RD.Init.DialogShown.Ide" value="true" />
+    <property name="SettingsSearchHistory" value="setting repo&#10;zoom&#10;delete&#10;g&#10;sort" />
+    <property name="TrendingPluginsSearchHistory" value="lua" />
+    <property name="evlsprt3.183" value="17" />
+    <property name="export.settings.path" value="$USER_HOME$/Desktop//Rider.jar" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Dropbox/Developer/IDE Config/settings_latest.jar" />
+    <property name="file.gist.reindex.count" value="71" />
+    <property name="fileTypeChangedCounter" value="6" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="last_selected_template" value="Empty Solution|" />
+    <property name="settings.code.style.selected.tab.C#" value="Naming" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
