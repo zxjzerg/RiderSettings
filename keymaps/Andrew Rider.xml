@@ -1,5 +1,9 @@
 <keymap version="1" name="Andrew Rider" parent="Mac OS X">
+  <action id="ActivateFindToolWindow" />
   <action id="ActivateRunToolWindow" />
+  <action id="ActivateUnityToolWindow">
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Edit" />
   <action id="Arrangement.Rule.Remove">
@@ -100,6 +104,7 @@
   <action id="ExpandRegion">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
+  <action id="FileChooser.GotoModule" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
