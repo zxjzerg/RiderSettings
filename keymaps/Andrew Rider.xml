@@ -166,6 +166,10 @@
     <mouse-shortcut keystroke="button2" />
   </action>
   <action id="Move" />
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="meta alt o" />
+    <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
   <action id="ParameterInfo" />
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="ctrl j" />
@@ -181,6 +185,7 @@
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
   <action id="Replace" />
+  <action id="RiderOpenSolution" />
   <action id="RiderUnitTestAppendTestsAction" />
   <action id="RiderUnitTestDebugContextAction" />
   <action id="RiderUnitTestDotMemoryUnitContextAction" />
