@@ -1,0 +1,14 @@
+<templateSet group="Lua">
+  <template name="gobfind" value="GameObject:Find(&quot;$Name$&quot;)" toReformat="false" toShortenFQNames="true">
+    <variable name="Name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="LUA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="gobfindbytransform" value="obj.transform:Find(&quot;$Path$&quot;).gameObject" toReformat="false" toShortenFQNames="true">
+    <variable name="Path" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="LUA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

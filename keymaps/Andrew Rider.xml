@@ -142,6 +142,7 @@
     <keyboard-shortcut first-keystroke="ctrl enter" />
     <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
+  <action id="Generate.Missing.Members.TypeScript" />
   <action id="Git.Reword.Commit">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
@@ -176,7 +177,10 @@
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
   <action id="Images.ShowThumbnails" />
-  <action id="InsertLiveTemplate" />
+  <action id="ImplementMethods" />
+  <action id="InsertLiveTemplate">
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
   <action id="Jdbc.OpenEditor.DDL">
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="button2" />
