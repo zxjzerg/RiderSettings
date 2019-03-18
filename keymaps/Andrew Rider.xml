@@ -113,6 +113,10 @@
   </action>
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.TogglePathShowing" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta f12" />
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
     <keyboard-shortcut first-keystroke="ctrl f" />
@@ -231,9 +235,6 @@
     <keyboard-shortcut first-keystroke="f6" />
   </action>
   <action id="TodoViewGroupByShowPackages" />
-  <action id="ToolWindowsGroup">
-    <keyboard-shortcut first-keystroke="meta o" />
-  </action>
   <action id="UML.ApplyCurrentLayout" />
   <action id="UML.ShowStructure">
     <keyboard-shortcut first-keystroke="meta f12" />
