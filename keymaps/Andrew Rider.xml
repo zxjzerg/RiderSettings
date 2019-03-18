@@ -27,6 +27,7 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="ctrl space" />
     <keyboard-shortcut first-keystroke="shift meta period" />
+    <keyboard-shortcut first-keystroke="meta period" />
   </action>
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="meta subtract" />
