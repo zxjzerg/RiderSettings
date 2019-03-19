@@ -34,13 +34,13 @@
     <variable name="PARAMS" expression="LuaFunctionParamSignature()" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="GameObjectFind" value="GameObject.Find(&quot;$Name$&quot;)" toReformat="false" toShortenFQNames="true">
+  <template name="GameObjectFind" value="GameObject.Find(&quot;$Name$&quot;)" description="" toReformat="false" toShortenFQNames="true">
     <variable name="Name" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="LUA_CODE" value="true" />
     </context>
   </template>
-  <template name="GameObjectFindByTransform" value="obj.transform:Find(&quot;$Path$&quot;).gameObject" toReformat="false" toShortenFQNames="true">
+  <template name="GameObjectFindByTransform" value="obj.transform:Find(&quot;$Path$&quot;).gameObject" description="" toReformat="false" toShortenFQNames="true">
     <variable name="Path" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="LUA_CODE" value="true" />
