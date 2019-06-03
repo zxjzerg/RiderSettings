@@ -6,10 +6,779 @@
       <path value="New" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="Convert" is_group="true" action_type="-1" position="26">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Convert" is_group="true" action_type="-1" position="26">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Convert" is_group="true" action_type="-1" position="26">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="25">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="25">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="25">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RiderBackendAction-Refactorings.AdjustNamespaces" is_action="true" action_type="-1" position="24">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RiderBackendAction-Refactorings.AdjustNamespaces" is_action="true" action_type="-1" position="24">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RiderBackendAction-Refactorings.AdjustNamespaces" is_action="true" action_type="-1" position="24">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RiderBackendAction-MoveIntoMatchingFiles" is_action="true" action_type="-1" position="23">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RiderBackendAction-MoveIntoMatchingFiles" is_action="true" action_type="-1" position="23">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RiderBackendAction-MoveIntoMatchingFiles" is_action="true" action_type="-1" position="23">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RiderBackendAction-InvertBool" is_action="true" action_type="-1" position="21">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RiderBackendAction-InvertBool" is_action="true" action_type="-1" position="21">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RiderBackendAction-InvertBool" is_action="true" action_type="-1" position="21">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RiderBackendAction-UseBaseTypeAction" is_action="true" action_type="-1" position="20">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RiderBackendAction-UseBaseTypeAction" is_action="true" action_type="-1" position="20">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RiderBackendAction-UseBaseTypeAction" is_action="true" action_type="-1" position="20">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RiderBackendAction-MakeNonStatic" is_action="true" action_type="-1" position="19">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RiderBackendAction-MakeNonStatic" is_action="true" action_type="-1" position="19">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RiderBackendAction-MakeNonStatic" is_action="true" action_type="-1" position="19">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RiderBackendAction-MakeStatic" is_action="true" action_type="-1" position="18">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RiderBackendAction-MakeStatic" is_action="true" action_type="-1" position="18">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RiderBackendAction-MakeStatic" is_action="true" action_type="-1" position="18">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RiderBackendAction-Type2Partial" is_action="true" action_type="-1" position="17">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RiderBackendAction-Type2Partial" is_action="true" action_type="-1" position="17">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RiderBackendAction-Type2Partial" is_action="true" action_type="-1" position="17">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="MemberPushDown" is_action="true" action_type="-1" position="16">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="MemberPushDown" is_action="true" action_type="-1" position="16">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="MemberPushDown" is_action="true" action_type="-1" position="16">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="MembersPullUp" is_action="true" action_type="-1" position="15">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="MembersPullUp" is_action="true" action_type="-1" position="15">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="MembersPullUp" is_action="true" action_type="-1" position="15">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="14">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="14">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="14">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Inline" is_group="true" action_type="-1" position="13">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Inline" is_group="true" action_type="-1" position="13">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Inline" is_group="true" action_type="-1" position="13">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="IntroduceParameter" is_action="true" action_type="-1" position="10">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="IntroduceParameter" is_action="true" action_type="-1" position="10">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="IntroduceParameter" is_action="true" action_type="-1" position="10">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="IntroduceField" is_action="true" action_type="-1" position="9">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="IntroduceField" is_action="true" action_type="-1" position="9">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="IntroduceField" is_action="true" action_type="-1" position="9">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="IntroduceVariable" is_action="true" action_type="-1" position="8">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="IntroduceVariable" is_action="true" action_type="-1" position="8">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="IntroduceVariable" is_action="true" action_type="-1" position="8">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CopyElement" is_action="true" action_type="-1" position="6">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CopyElement" is_action="true" action_type="-1" position="6">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CopyElement" is_action="true" action_type="-1" position="6">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RiderBackendAction-EncapsulateField" is_action="true" action_type="-1" position="5">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RiderBackendAction-EncapsulateField" is_action="true" action_type="-1" position="5">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RiderBackendAction-EncapsulateField" is_action="true" action_type="-1" position="5">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ChangeSignature" is_action="true" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RiderBackendAction-ExtractContentPlaceholder" is_action="true" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ChangeSignature" is_action="true" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RiderBackendAction-ExtractContentPlaceholder" is_action="true" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Android.CreateResourcesActionGroup" is_group="true" action_type="-1" position="4">
       <path value="root" />
       <path value="Favorites View Popup Menu" />
       <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ChangeSignature" is_action="true" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RiderBackendAction-ExtractContentPlaceholder" is_action="true" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Move" is_action="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RiderBackendAction-TransformParameters" is_action="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Move" is_action="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RiderBackendAction-TransformParameters" is_action="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Move" is_action="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RiderBackendAction-TransformParameters" is_action="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SafeDelete" is_action="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SafeDelete" is_action="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SafeDelete" is_action="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CheckinProject" is_action="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="NavBarVcsGroup" />
+      <path value="VcsNavBarToobarActions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RenameElement" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Vcs.UpdateProject" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
+      <path value="VCS Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RenameElement" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RenameElement" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Vcs.UpdateProject" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="NavBarVcsGroup" />
+      <path value="VcsNavBarToobarActions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Refactorings.QuickListPopupAction" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Refactorings.QuickListPopupAction" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Refactorings.QuickListPopupAction" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ReactClassToFunctionalComponentAction" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="IntroduceVariable" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ReactClassToFunctionalComponentAction" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="IntroduceVariable" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ReactClassToFunctionalComponentAction" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="IntroduceVariable" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ReactFunctionalToClassComponentAction" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="IntroduceConstant" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ReactFunctionalToClassComponentAction" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="IntroduceConstant" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ReactFunctionalToClassComponentAction" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="IntroduceConstant" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Compare.SameVersion" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="NavBarVcsGroup" />
+      <path value="VcsNavBarToobarActions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ModifyObject" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="IntroduceField" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ModifyObject" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="IntroduceField" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ModifyObject" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="IntroduceField" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ReactClassToFunctionalComponentAction" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="IntroduceParameter" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ReactClassToFunctionalComponentAction" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="IntroduceParameter" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ReactClassToFunctionalComponentAction" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="IntroduceParameter" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ReactFunctionalToClassComponentAction" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ReactFunctionalToClassComponentAction" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <path value="Extract" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Android.CreateResourcesActionGroup" is_action="true" action_type="1" position="4">
@@ -18,10 +787,862 @@
       <path value="New" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="ReactFunctionalToClassComponentAction" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ModifyObject" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="IntroduceParameterObject" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ModifyObject" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="IntroduceParameterObject" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ModifyObject" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="IntroduceParameterObject" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="InvertBoolean" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="InvertBoolean" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="InvertBoolean" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="IntroduceVariable" is_action="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="IntroduceVariable" is_action="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="IntroduceVariable" is_action="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XMLRefactoringMenu" is_group="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XMLRefactoringMenu" is_group="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XMLRefactoringMenu" is_group="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AndroidInlineStyleReferenceAction" is_action="true" action_type="1" position="9">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ExtractClass" is_action="true" action_type="1" position="9">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AndroidInlineStyleReferenceAction" is_action="true" action_type="1" position="9">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ExtractClass" is_action="true" action_type="1" position="9">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AndroidInlineStyleReferenceAction" is_action="true" action_type="1" position="9">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ExtractClass" is_action="true" action_type="1" position="9">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AndroidFindStyleApplicationsAction" is_action="true" action_type="1" position="10">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ExtractInclude" is_action="true" action_type="1" position="10">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AndroidFindStyleApplicationsAction" is_action="true" action_type="1" position="10">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ExtractInclude" is_action="true" action_type="1" position="10">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AndroidFindStyleApplicationsAction" is_action="true" action_type="1" position="10">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ExtractInclude" is_action="true" action_type="1" position="10">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="IntroduceConstant" is_action="true" action_type="1" position="11">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="IntroduceConstant" is_action="true" action_type="1" position="11">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="IntroduceConstant" is_action="true" action_type="1" position="11">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="IntroduceField" is_action="true" action_type="1" position="12">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="IntroduceField" is_action="true" action_type="1" position="12">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="IntroduceField" is_action="true" action_type="1" position="12">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="InvertBoolean" is_action="true" action_type="1" position="13">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ExtractModule" is_action="true" action_type="1" position="13">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="InvertBoolean" is_action="true" action_type="1" position="13">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ExtractModule" is_action="true" action_type="1" position="13">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="InvertBoolean" is_action="true" action_type="1" position="13">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ExtractModule" is_action="true" action_type="1" position="13">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="sql.ExtractNamedQueryAction" is_action="true" action_type="1" position="14">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="sql.ExtractNamedQueryAction" is_action="true" action_type="1" position="14">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="sql.ExtractNamedQueryAction" is_action="true" action_type="1" position="14">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XMLRefactoringMenu" is_group="true" action_type="1" position="15">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AndroidExtractStyleAction" is_action="true" action_type="1" position="15">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XMLRefactoringMenu" is_group="true" action_type="1" position="15">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AndroidExtractStyleAction" is_action="true" action_type="1" position="15">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XMLRefactoringMenu" is_group="true" action_type="1" position="15">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AndroidExtractStyleAction" is_action="true" action_type="1" position="15">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AndroidInlineStyleReferenceAction" is_action="true" action_type="1" position="16">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AndroidExtractAsIncludeAction" is_action="true" action_type="1" position="16">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AndroidInlineStyleReferenceAction" is_action="true" action_type="1" position="16">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AndroidExtractAsIncludeAction" is_action="true" action_type="1" position="16">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AndroidInlineStyleReferenceAction" is_action="true" action_type="1" position="16">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AndroidExtractAsIncludeAction" is_action="true" action_type="1" position="16">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AndroidFindStyleApplicationsAction" is_action="true" action_type="1" position="17">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="TypeScriptExtractTypeAlias" is_action="true" action_type="1" position="17">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AndroidFindStyleApplicationsAction" is_action="true" action_type="1" position="17">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="TypeScriptExtractTypeAlias" is_action="true" action_type="1" position="17">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AndroidFindStyleApplicationsAction" is_action="true" action_type="1" position="17">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="TypeScriptExtractTypeAlias" is_action="true" action_type="1" position="17">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ReactExtractComponentAction" is_action="true" action_type="1" position="18">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ReactExtractComponentAction" is_action="true" action_type="1" position="18">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ReactExtractComponentAction" is_action="true" action_type="1" position="18">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="IntroduceParameter" is_action="true" action_type="1" position="19">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="IntroduceParameter" is_action="true" action_type="1" position="19">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="IntroduceParameter" is_action="true" action_type="1" position="19">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="20">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="20">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="20">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="IntroduceParameterObject" is_action="true" action_type="1" position="21">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="IntroduceParameterObject" is_action="true" action_type="1" position="21">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="IntroduceParameterObject" is_action="true" action_type="1" position="21">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="22">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="22">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="22">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="24">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="24">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="24">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ExtractClass" is_action="true" action_type="1" position="25">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ExtractClass" is_action="true" action_type="1" position="25">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ExtractClass" is_action="true" action_type="1" position="25">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ExtractInclude" is_action="true" action_type="1" position="26">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ExtractInclude" is_action="true" action_type="1" position="26">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ExtractInclude" is_action="true" action_type="1" position="26">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="NewFromTemplate" is_action="true" action_type="1" position="27">
       <path value="root" />
       <path value="Favorites View Popup Menu" />
       <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ExtractModule" is_action="true" action_type="1" position="29">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ExtractModule" is_action="true" action_type="1" position="29">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ExtractModule" is_action="true" action_type="1" position="29">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="sql.ExtractNamedQueryAction" is_action="true" action_type="1" position="30">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="sql.ExtractNamedQueryAction" is_action="true" action_type="1" position="30">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="sql.ExtractNamedQueryAction" is_action="true" action_type="1" position="30">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AndroidExtractStyleAction" is_action="true" action_type="1" position="31">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AndroidExtractStyleAction" is_action="true" action_type="1" position="31">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AndroidExtractStyleAction" is_action="true" action_type="1" position="31">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AndroidExtractAsIncludeAction" is_action="true" action_type="1" position="32">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AndroidExtractAsIncludeAction" is_action="true" action_type="1" position="32">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AndroidExtractAsIncludeAction" is_action="true" action_type="1" position="32">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="TypeScriptExtractTypeAlias" is_action="true" action_type="1" position="33">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="TypeScriptExtractTypeAlias" is_action="true" action_type="1" position="33">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="TypeScriptExtractTypeAlias" is_action="true" action_type="1" position="33">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ReactExtractComponentAction" is_action="true" action_type="1" position="34">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ReactExtractComponentAction" is_action="true" action_type="1" position="34">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <path value="Extract" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ReactExtractComponentAction" is_action="true" action_type="1" position="34">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Refactoring Group" />
+      <path value="Refactor" />
+      <path value="Extract" />
       <option name="myInitialPosition" value="-1" />
     </group>
   </component>
