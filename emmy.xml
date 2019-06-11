@@ -3,4 +3,12 @@
     <option name="luaCheck" value="" />
     <option name="luaCheckArgs" value="" />
   </component>
+  <component name="LuaSettings">
+    <option name="additionalSourcesRoot">
+      <array>
+        <option value="$USER_HOME$/Developer/Projects/UnityProjects/Course/CourseV2/course-main/Assets/LuaFramework/Course_Library/BasicV2/Scripts" />
+        <option value="$USER_HOME$/Developer/Projects/UnityProjects/Course/CourseV2/course-main/Assets/LuaFramework/Lua" />
+      </array>
+    </option>
+  </component>
 </application>
