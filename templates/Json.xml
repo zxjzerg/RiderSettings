@@ -1,0 +1,7 @@
+<templateSet group="Json">
+  <template name="package" value="&quot;package&quot;: {&#10;  &#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSON" value="true" />
+    </context>
+  </template>
+</templateSet>
